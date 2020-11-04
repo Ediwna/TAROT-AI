@@ -1,4 +1,3 @@
-# Tarot-Card-Interpreter
 # Tarot-Card-Interpreter: 
 Tarot car is uesd to...
 
