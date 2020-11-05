@@ -1,5 +1,4 @@
 # TAROT AI(타로 아이) : Tarot Card-Interpreter
-Tarot card is uesd to...
 
 ![image](https://github.com/Ediwna/TAROT-AI/blob/main/tarotcard1.jpg?raw=true)
 
