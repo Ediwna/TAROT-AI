@@ -33,6 +33,7 @@ The process of handling user utterances on the NUGU platform is as follows.
 1. Identify intention through speech recognition
 2. Performing actions that fit the identified intention
 3. The generated response is transmitted as a synthesized sound
+
 To make this process easier, NUGU developers provide the NUGU play kit.
 NUGU play kit provides a GUI-based integrated development environment for developing conversation-based artificial intelligence services, so users can easily develop their own services.
 
