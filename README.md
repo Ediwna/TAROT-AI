@@ -1,7 +1,7 @@
 # Tarot-Card-Interpreter: 
 Tarot card is uesd to...
 
-![image](https://github.com/Ediwna/Tarot-Card-Interpreter/blob/main/tarotcard.jpg)
+![image](https://github.com/Ediwna/Tarot-Card-Interpreter/blob/main/tarotcard1.jpg)
 
 ## Contributors
 - San Gu, Information System, 2014005305, goosan126@gmail.com
