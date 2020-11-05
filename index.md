@@ -5,7 +5,7 @@ Tarot card is uesd to...
 - San Gu, Information System, 2014005305, goosan126@gmail.com
 - YeonJu Nam, Information System, 2018007510, skaduswn0515@naver.com
 - Yeol Yang, Information System, 2018057701, yeolyang77@gmail.com
-- 윤청록
+- CheongRok Yoon, information System, 2011004556, dbscjdfhr@gmail.com
 - Jaemin Lee, Information Systemm 2018007656, jm4984@naver.com
 
 ## Proposal
