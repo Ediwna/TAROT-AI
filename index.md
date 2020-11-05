@@ -1,7 +1,7 @@
-# TAROT AI(타로 아이) : Tarot Card-Interpreter: 
+# TAROT AI(타로 아이) : Tarot Card-Interpreter
 Tarot card is uesd to...
 
-![image](https://github.com/Ediwna/Tarot-Card-Interpreter/blob/main/tarotcard1.jpg)
+![image](https://github.com/Ediwna/TAROT-AI/blob/main/tarotcard1.jpg?raw=true)
 
 ## Contributors
 - San Gu, Information System, 2014005305, goosan126@gmail.com
