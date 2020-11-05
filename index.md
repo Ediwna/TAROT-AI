@@ -24,7 +24,7 @@ Firebase : The developer tool that make easily mobile server. They use this tool
 
 We'll refer to this blog post to develop our tarot card service. But we will use NUGU AI speaker, not Google Assistant, and select three cards, not one card.
 
-[Reference URL](https://medium.com/@jfriedhoff/tarot-time-b149230a35d6)
+Reference URL: (https://medium.com/@jfriedhoff/tarot-time-b149230a35d6)
 
 ### NUGU Play
 
@@ -35,6 +35,7 @@ The process of handling user utterances on the NUGU platform is as follows.
 3. The generated response is transmitted as a synthesized sound
 To make this process easier, NUGU developers provide the NUGU play kit.
 NUGU play kit provides a GUI-based integrated development environment for developing conversation-based artificial intelligence services, so users can easily develop their own services.
+
 In NUGU play kit, Play Builder, an integrated development environment that provides the element technologies necessary for the process of processing user speech, and enables service development, is provided.
 
-[Reference URL](https://developers-doc.nugu.co.kr/nugu-play)
+Reference URL: (https://developers-doc.nugu.co.kr/nugu-play)
