@@ -1,5 +1,5 @@
 # Tarot-Card-Interpreter: 
-Tarot car is uesd to...
+Tarot card is uesd to...
 
 ## Contributors
 - 구산
